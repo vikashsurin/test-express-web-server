@@ -1,0 +1,19 @@
+{
+  "name": "htmlnode",
+  "version": "1.0.0",
+  "description": "a smalll app ",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "vikash",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+    
+  },
+  "engines": {
+    "node":"10.6.0"
+  }
+}
